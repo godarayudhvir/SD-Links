@@ -1,6 +1,6 @@
 {
-  "short_name": "CA-Links",
-  "name": "Cyber Alliance Links",
+  "short_name": "SD-Links",
+  "name": "ShubhDeal Links",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
@@ -14,11 +14,11 @@
 
   "shortcuts": [
     {
-      "name": "Pay",
-      "short_name": "Pay",
-      "description": "Make a Payment to Cyber Alliance India",
-      "url": "pay.html",
-      "icons": [{ "src": "/img/icons/money.png", "sizes": "512x512" }]
+      "name": "Current offers",
+      "short_name": "offers",
+      "description": "Best offers online right now",
+      "url": "offers.html",
+      "icons": [{ "src": "/img/icons/sale.png", "sizes": "48x48" }]
     }
   ]
 }
